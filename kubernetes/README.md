@@ -1,6 +1,6 @@
 # Wanderlust Deployment on Kubernetes.
 
-### In this project, we will learn about how to deploy wanderlust application on Kubernetes.
+### In this project, we will learn about how to deploy wanderlust application on Kubernetes..
 
 ### Pre-requisites to implement this project:
 -  Create 2 AWS EC2 instance (Ubuntu) with instance type t2.medium and root volume 29GB.
