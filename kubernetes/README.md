@@ -1,4 +1,4 @@
-# Wanderlust Deployment on Kubernetes
+# Wanderlust Deployment on Kubernetes.
 
 ### In this project, we will learn about how to deploy wanderlust application on Kubernetes.
 
